@@ -1,0 +1,35 @@
+name: Update Daily Ledger
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-ledger:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python scripts/update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "daily-ledger-bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Daily ledger entry" || exit 0
+          git push
