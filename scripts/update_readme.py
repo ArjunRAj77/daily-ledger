@@ -73,6 +73,8 @@ def main():
         f.write(updated)
 
     print("Daily ledger updated.")
+    print(f"Added row: {new_row}")
+
 
 
 if __name__ == "__main__":
