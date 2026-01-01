@@ -23,7 +23,7 @@ jobs:
 
       - name: Update README
         env:
-          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          THENEWS_API_KEY: ${{ secrets.THENEWS_API_KEY }}
         run: python scripts/update_readme.py
 
       - name: Commit changes
