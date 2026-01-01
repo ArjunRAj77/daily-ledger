@@ -24,4 +24,4 @@ This repo adds a single meaningful line per day:
 
 | Date | Quote | Top News |
 |------|--------|--------|
-| 2026-01-01 | Pay attention to what compounds. | Xi congratulates Guy Parmelin on assuming Swiss presidency |
+
