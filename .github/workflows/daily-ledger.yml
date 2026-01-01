@@ -3,7 +3,7 @@ name: Update Daily Ledger
 on:
   schedule:
     - cron: "0 0 * * *"   # runs daily at 00:00 UTC
-  workflow_dispatch:
+  workflow_dispatch:       # allows manual testing
 
 jobs:
   update-ledger:
@@ -28,13 +28,10 @@ jobs:
           THENEWS_API_KEY: ${{ secrets.THENEWS_API_KEY }}
         run: python scripts/update_readme.py
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "daily-ledger-bot"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Daily ledger entry" || exit 0
+          git commit -m "Daily ledger entry" || echo "Nothing to commit"
           git push origin HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
