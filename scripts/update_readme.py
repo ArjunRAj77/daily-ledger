@@ -69,8 +69,8 @@ def get_top_news():
 
     params = {
         "api_token": NEWS_API_KEY,
-        "language": "en",  # Fetch English articles.
-        "limit": 1,        # Only need the single top article.
+        "language": "en",
+        "limit": 1, 
     }
 
     try:
