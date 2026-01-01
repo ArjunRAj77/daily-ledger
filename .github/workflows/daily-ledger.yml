@@ -1,39 +1,65 @@
 name: Update Daily Ledger
-
+# The following comments are created by co-pilot.
+# When the workflow runs:
 on:
   schedule:
+    # Runs daily at 00:00 UTC. Note: GitHub Actions schedules always use UTC.
     - cron: "0 0 * * *"   # runs daily at 00:00 UTC
-  workflow_dispatch:       # allows manual testing
+  workflow_dispatch:       # allows manual triggering from the Actions UI
 
 jobs:
   update-ledger:
+    # Runner image used for the job
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repo
+        # Checks out repository so subsequent steps can read/update files
         uses: actions/checkout@v4
         with:
+          # GITHUB_TOKEN is automatically provided by GitHub; used here so
+          # later git push can authenticate. Keep this if you want the workflow
+          # to push commits back to the repo.
           token: ${{ secrets.GITHUB_TOKEN }}
+          # When true, the checked-out repository will retain the credentials
+          # (the token) so git push can succeed. If you do not need to push,
+          # you can remove or set this to false.
           persist-credentials: true  
 
 
       - name: Set up Python
+        # Installs Python on the runner. Using "3.x" selects the latest 3.* release.
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
       - name: Install dependencies
+        # Installs the requests package. Consider using a requirements.txt and:
+        #   python -m pip install --upgrade pip
+        #   python -m pip install -r requirements.txt
+        # This is more reproducible for multiple dependencies.
         run: pip install requests
 
       - name: Update README
+        # Pass secret API key into the environment for the script. Make sure the
+        # script does not print the secret to logs (secrets are masked but avoid exposing them).
         env:
           THENEWS_API_KEY: ${{ secrets.THENEWS_API_KEY }}
+        # Runs your custom script which should update README.md (or other files).
+        # Prefer using `python -m scripts.update_readme` or `python scripts/update_readme.py`
+        # depending on how your project is structured to avoid import/path issues.
         run: python scripts/update_readme.py
 
       - name: Commit and push changes
+        # Commits README.md and pushes back to the repo. Notes and suggestions:
+        # - If branch protection requires approvals, this push may fail.
+        # - If you need tags or full history, consider `fetch-depth: 0` in checkout.
+        # - You may want to set git author/committer env vars instead of (or in addition to)
+        #   user.name/user.email if you need a specific identity.
         run: |
           git config user.name "daily-ledger-bot"
           git config user.email "actions@github.com"
           git add README.md
+          # If nothing changed, commit returns non-zero; the `|| echo` avoids failing the job.
           git commit -m "Daily ledger entry" || echo "Nothing to commit"
           git push
