@@ -25,3 +25,4 @@ This repo adds a single meaningful line per day:
 | Date | Quote | Top News |
 |------|--------|--------|
 | 2026-01-01 | Pay attention to what compounds. | World unusually quiet today. |
+| 2026-01-02 | Pay attention to what compounds. | Liverpool 0-0 Leeds (1 Jan, 2026) Game Analysis |
