@@ -20,7 +20,7 @@ from datetime import date
 README_PATH = "README.md"
 
 # External APIs used to fetch content for each ledger row.
-QUOTABLE_URL = "https://api.quotable.io/random"
+QUOTABLE_URL = "https://api.quotable.io/quotes/random?limit=1"
 NEWS_URL = "https://api.thenewsapi.com/v1/news/top"
 
 # API key read from the environment; if missing, news fetching is skipped.
