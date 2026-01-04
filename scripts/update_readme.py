@@ -20,7 +20,7 @@ from datetime import date
 README_PATH = "README.md"
 
 # External APIs used to fetch content for each ledger row.
-QUOTABLE_URL = "https://api.quotable.io/quotes/random?limit=1"
+QUOTABLE_URL = "https://zenquotes.io/api/random"
 NEWS_URL = "https://api.thenewsapi.com/v1/news/top"
 
 # API key read from the environment; if missing, news fetching is skipped.
@@ -36,22 +36,20 @@ def get_today():
 
 
 def get_thought():
-    """
-    Fetch a random quote from the Quotable API and return it in the format:
-        "<content> — <author>"
-
-    If the API request fails for any reason (network, rate limit, unexpected
-    response), return a sensible fallback string.
-    """
     try:
         response = requests.get(QUOTABLE_URL, timeout=10)
         response.raise_for_status()
+
         data = response.json()
-        # Compose the thought from the API response.
-        return f"{data['content']} — {data['author']}"
+        if isinstance(data, list) and data:
+            quote = data[0]
+            return f"{quote['q']} — {quote['a']}"
+
     except Exception:
-        # Use a short, local fallback thought if anything goes wrong.
-        return "Pay attention to what compounds."
+        pass
+
+    return "Small, consistent steps beat dramatic starts."
+
 
 
 def get_top_news():
