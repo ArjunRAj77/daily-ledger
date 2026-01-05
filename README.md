@@ -28,3 +28,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-02 | Pay attention to what compounds. | Liverpool 0-0 Leeds (1 Jan, 2026) Game Analysis |
 | 2026-01-03 | Pay attention to what compounds. | Bell: Danielle Smith explodes over Calgary water pipe explosion — and Nenshi |
 | 2026-01-04 | Changing minds is harder than finding people who already agree. — Jack Butcher | Reza Pahlavi praises Iranian youth leading protests |
+| 2026-01-05 | Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. — Earl Nightingale | Critics Choice Awards 2026: Chelsea Handler Roasts 50 Cent's Diddy Doc, Jeff Bezos & More |
