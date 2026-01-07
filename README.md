@@ -30,3 +30,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-04 | Changing minds is harder than finding people who already agree. — Jack Butcher | Reza Pahlavi praises Iranian youth leading protests |
 | 2026-01-05 | Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. — Earl Nightingale | Critics Choice Awards 2026: Chelsea Handler Roasts 50 Cent's Diddy Doc, Jeff Bezos & More |
 | 2026-01-06 | Strategy is a commodity, execution is an art. — Peter Drucker | Celtic appoint Martin O'Neill for rest of season after Wilfried Nancy sacking |
+| 2026-01-07 | Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. — Roy T. Bennett | Stanford writing program accused of prioritizing ideology over core skills: ‘Nonsense’ |
