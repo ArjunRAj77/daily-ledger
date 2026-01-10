@@ -33,3 +33,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-07 | Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. — Roy T. Bennett | Stanford writing program accused of prioritizing ideology over core skills: ‘Nonsense’ |
 | 2026-01-08 | Dreams are the touchstones of our characters. — Henry David Thoreau | ‘People We Meet On Vacation’ Director Brett Haley And Author Emily Henry Share Taylor Swift Needle Drop They Considered In Addition To ‘August’ |
 | 2026-01-09 | Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. — Kahlil Gibran | Albertans prepare for the big melt as temperatures forecast to soar this weekend |
+| 2026-01-10 | The greatest treasures are those invisible to the eye but found by the heart. — Judy Garland | Pro-Israel Democrat retires from Congress |
