@@ -38,3 +38,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-12 | Nothing is particularly hard if you divide it into small jobs.  — Henry Ford | Man arrested for violating Japan’s anti-dueling law in downtown Tokyo |
 | 2026-01-13 | The only reason to be alive is to enjoy it. — Rita Mae Brown | World unusually quiet today. |
 | 2026-01-14 | When you love someone, you love the person as they are, and not as you'd like them to be. — Leo Tolstoy | PSG received €144M for winning 2024-25 Champions League |
+| 2026-01-15 | Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston | Arsenal take first step to end long-standing semifinal curse |
