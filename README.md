@@ -40,3 +40,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-14 | When you love someone, you love the person as they are, and not as you'd like them to be. — Leo Tolstoy | PSG received €144M for winning 2024-25 Champions League |
 | 2026-01-15 | Don't let the silly little dramas of each day get you down. For you are here to do great things. — Ralph Marston | Arsenal take first step to end long-standing semifinal curse |
 | 2026-01-16 | The only thing worse than being blind is having sight but no vision. — Helen Keller | World-first social media wargame reveals how AI bots can swing elections |
+| 2026-01-17 | Nothing like a health problem to turn up the contrast dial for the rest of life. — Naval Ravikant | Trump gov't will seek 'separate' semiconductor tariff agreements for separate countries: US official |
