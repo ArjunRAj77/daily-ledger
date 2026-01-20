@@ -43,3 +43,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-17 | Nothing like a health problem to turn up the contrast dial for the rest of life. — Naval Ravikant | Trump gov't will seek 'separate' semiconductor tariff agreements for separate countries: US official |
 | 2026-01-18 | Happiness cannot be traveled to, owned, earned, worn or consumed. — Denis Waitley | Iranian leader Khamenei accuses Trump of inciting deadly protests |
 | 2026-01-19 | The less you respond to negative people, the more positive your life will become. — Paulo Coelho | Who Is Marissa Springer? Meet the Model Spotted With Desmond Scott |
+| 2026-01-20 | Every moment of happiness requires a great amount of Ignorance — Honore de Balzac | Fashion designer Valentino Garavani dies at 93 |
