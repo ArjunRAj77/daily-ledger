@@ -48,3 +48,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-22 | No one can confidently say that he will still be living tomorrow. — Euripides | Donald Trump yells at Khameini on satirical Israeli TV show |
 | 2026-01-23 | It doesn't matter how slow you go, as long as you don't stop. — Confucius | IndiGo Q3 profit plunges 75% amid pilot shortage, compensation costs |
 | 2026-01-24 | The difference between winning and losing is most often not quitting. — Walt Disney | Why Donald Trump was wrong on US owning Iron Dome |
+| 2026-01-25 | Do something to move yourself toward your major goal every day. — Brian Tracy | Benjamin Netanyahu blocks Isaac Herzog from joining Donald Trump Gaza board event |
