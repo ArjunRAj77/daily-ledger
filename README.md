@@ -49,3 +49,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-23 | It doesn't matter how slow you go, as long as you don't stop. — Confucius | IndiGo Q3 profit plunges 75% amid pilot shortage, compensation costs |
 | 2026-01-24 | The difference between winning and losing is most often not quitting. — Walt Disney | Why Donald Trump was wrong on US owning Iron Dome |
 | 2026-01-25 | Do something to move yourself toward your major goal every day. — Brian Tracy | Benjamin Netanyahu blocks Isaac Herzog from joining Donald Trump Gaza board event |
+| 2026-01-26 | Where your talents and the needs of the world cross, there lies your vocation. — Aristotle | Ikea Japan closing two downtown Tokyo flagship stores — Why couldn’t they make it in the big city? |
