@@ -51,3 +51,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-25 | Do something to move yourself toward your major goal every day. — Brian Tracy | Benjamin Netanyahu blocks Isaac Herzog from joining Donald Trump Gaza board event |
 | 2026-01-26 | Where your talents and the needs of the world cross, there lies your vocation. — Aristotle | Ikea Japan closing two downtown Tokyo flagship stores — Why couldn’t they make it in the big city? |
 | 2026-01-27 | Most people fail in life because they major in minor things. — Tony Robbins | China Urges Citizens to Avoid Traveling to Japan During Lunar New Year Holidays |
+| 2026-01-28 | Setting goals is the first step in turning the invisible into the visible. — Tony Robbins | The Islamic Republic’s Predatory Contract With Its People |
