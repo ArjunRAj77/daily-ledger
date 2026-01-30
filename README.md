@@ -53,3 +53,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-27 | Most people fail in life because they major in minor things. — Tony Robbins | China Urges Citizens to Avoid Traveling to Japan During Lunar New Year Holidays |
 | 2026-01-28 | Setting goals is the first step in turning the invisible into the visible. — Tony Robbins | The Islamic Republic’s Predatory Contract With Its People |
 | 2026-01-29 | The difference between winning and losing is most often not quitting. — Walt Disney | Arsenal 6-0 AS FAR (28 Jan, 2026) Game Analysis |
+| 2026-01-30 | Respect is earned by effort not age, all things age without effort. — C. Sean McGee | JD Vance erased Jews from Holocaust day, proved Hazony righ |
