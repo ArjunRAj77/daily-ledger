@@ -56,3 +56,4 @@ This repo adds a single meaningful line per day:
 | 2026-01-30 | Respect is earned by effort not age, all things age without effort. — C. Sean McGee | JD Vance erased Jews from Holocaust day, proved Hazony righ |
 | 2026-01-31 | The road to success is always under construction.. — Lily Tomlin | Cristiano Ronaldo scores 17th goal of season for Al Nassr |
 | 2026-02-01 | Waste not fresh tears over old griefs. — Euripides | Right-wing activists block car of former PM Ehud Barak |
+| 2026-02-02 | What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. — Spencer Johnson | Real Madrid 2-1 Rayo (1 Feb, 2026) Game Analysis |
