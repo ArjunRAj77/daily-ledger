@@ -60,3 +60,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-03 | When something is important enough, you do it even if the odds are not in your favor. — Elon Musk | Peter Attia’s Fall |
 | 2026-02-04 | Anyone who has ever made anything of importance was disciplined. — Andrew Hendrixson | Arsenal vs. Chelsea (3 Feb, 2026) Live Score |
 | 2026-02-05 | You will succeed because most people are lazy. — Shahir Zag | Angel resembling Giorgia Meloni removed from Rome church after Vatican intervention |
+| 2026-02-06 | I will not walk backward in life. — J.R.R. Tolkien | US taking 'necessary steps' regarding issue of S. Korea being on 'sensitive country list': Seoul official |
