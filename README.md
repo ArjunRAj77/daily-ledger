@@ -65,3 +65,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-08 | It is well known that those who do not trust themselves never trust others. — Alfred Adler | Hamas claims IDF came within meters of hostages |
 | 2026-02-09 | My definition of success is control. — Kenneth Branagh | Man City boss Pep Guardiola warns Arsenal: 'A lot can happen' in title race |
 | 2026-02-10 | I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. — Tony Robbins | Defense chief discusses arms cooperation with Saudi nat'l guard minister |
+| 2026-02-11 | He who is untrue to his own cause cannot command the respect of others. — Albert Einstein | Amazon Ring’s Super Bowl ad sparks backlash amid fears of mass surveillance |
