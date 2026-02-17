@@ -70,3 +70,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-13 | A scientific man ought to have no wishes, no affections, - a mere heart of stone. — Charles Darwin | Video shows firefighters working to rescue dog stuck in storm drain after heavy SoCal rains |
 | 2026-02-14 | I was wise enough to never grow up while fooling most people into believing I had.  — Margaret Mead | Global Matcha Boom Pushes Tea House Fees Up 50% |
 | 2026-02-16 | Sometimes you have to shut your eyes, so you can see the real beauty. — Kilian Jornet | Jobs cuts loom as B.C. finance minister prepares 'very serious' Budget 2026 |
+| 2026-02-17 | Nothing brings down walls as surely as acceptance. — Deepak Chopra | Zelensky launches F-bomb laden rant in Munich |
