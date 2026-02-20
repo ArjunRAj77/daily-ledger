@@ -73,3 +73,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-17 | Nothing brings down walls as surely as acceptance. — Deepak Chopra | Zelensky launches F-bomb laden rant in Munich |
 | 2026-02-18 | The fewer the words, the better the prayer. — Martin Luther | World unusually quiet today. |
 | 2026-02-19 | The consequences of today are determined by the actions of the past. To change your future, alter your decisions today. — Unknown | Second Takaichi Cabinet Formed as All Ministers Reappointed |
+| 2026-02-20 | Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. — Marcus Aurelius | Three Stabbed Inside Fukuoka Library |
