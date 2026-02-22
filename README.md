@@ -75,3 +75,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-19 | The consequences of today are determined by the actions of the past. To change your future, alter your decisions today. — Unknown | Second Takaichi Cabinet Formed as All Ministers Reappointed |
 | 2026-02-20 | Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. — Marcus Aurelius | Three Stabbed Inside Fukuoka Library |
 | 2026-02-21 | The dead receive more flowers than the living because regret is stronger than gratitude. — Anne Frank | Teagan Micah forced out of Matildas' Asian Cup campaign as concussion issues continue |
+| 2026-02-22 | You don't need a weatherman to know which way the wind blows. — Bob Dylan | Jack Wilshere's Luton Town booed off at home after draw to strugglers Burton |
