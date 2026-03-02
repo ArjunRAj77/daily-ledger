@@ -83,3 +83,4 @@ This repo adds a single meaningful line per day:
 | 2026-02-27 | Muddy water is best cleared by leaving it alone. — Alan Watts | Stuttgart 0-1 Celtic (26 Feb, 2026) Game Analysis |
 | 2026-02-28 | Better late than never. — Spencer Johnson | Eevee returns to Japan’s famous Tokyo Banana, bundled with a cute tote bag |
 | 2026-03-01 | Truth is such a rare thing, it is delighted to tell it. — Emily Dickinson | US shifts to attempt to dominate through pure force — political scientist |
+| 2026-03-02 | The most important single ingredient in the formula of success is knowing how to get along with people. — Theodore Roosevelt | In Khamenei's absence, pragmatist Larijani emerges as power broker in Iran |
