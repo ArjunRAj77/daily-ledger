@@ -95,3 +95,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-11 | Blessed is he who expects nothing, for he shall never be disappointed. — Alexander Pope | Ravens back out of trade for Maxx Crosby, Raiders say |
 | 2026-03-12 | What are we doing here, that is the question. — Samuel Beckett | Champions League live updates: Real Madrid-Man City, PSG-Chelsea |
 | 2026-03-13 | I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. — Og Mandino | Nottm Forest vs. Midtjylland (12 Mar, 2026) Live Score |
+| 2026-03-14 | Death is not an ending. It is a transformation. — Ming-Dao Deng | Players' union: WNBA CBA talks show movement, revenue-linked pay a top priority |
