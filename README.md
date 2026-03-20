@@ -101,3 +101,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-17 | Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. — Sun Tzu | Brentford vs. Wolves (16 Mar, 2026) Live Score |
 | 2026-03-18 | When you reach the top of the mountain, keep climbing.  — Zen Proverb | JC Tretter elected as new executive director for NFL Players Association |
 | 2026-03-19 | The nearer a man comes to a calm mind, the closer he is to strength. — Marcus Aurelius | Santa Clara alum Steve Nash sends congrats to new Broncos |
+| 2026-03-20 | Those who realize their folly are not true fools. — Zhuangzi | Raptors' Collin Murray-Boyles listed as 'doubtful' vs. Nuggets |
