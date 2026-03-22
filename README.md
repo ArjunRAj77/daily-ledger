@@ -103,3 +103,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-19 | The nearer a man comes to a calm mind, the closer he is to strength. — Marcus Aurelius | Santa Clara alum Steve Nash sends congrats to new Broncos |
 | 2026-03-20 | Those who realize their folly are not true fools. — Zhuangzi | Raptors' Collin Murray-Boyles listed as 'doubtful' vs. Nuggets |
 | 2026-03-21 | Convinced myself, I seek not to convince. — Edgar Allan Poe | 10 awesome Tokyo cherry blossom festivals and experiences for this year’s sakura season |
+| 2026-03-22 | The greatest doer must also be a great dreamer. — Theodore Roosevelt | Altercation late in first half leads to four ejected from Thunder-Wizards |
