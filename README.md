@@ -106,3 +106,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-22 | The greatest doer must also be a great dreamer. — Theodore Roosevelt | Altercation late in first half leads to four ejected from Thunder-Wizards |
 | 2026-03-23 | When reading, only read. When eating, only eat. When thinking, only think. — Seungsahn | Cluster bomb fragment hits central Israel, no casualties reported |
 | 2026-03-24 | When you move beyond your fear, you feel free. — Spencer Johnson | Fudd's 34 points, eight threes power UConn past Syracuse into Sweet 16 for 32nd straight time |
+| 2026-03-25 | Don't let them drag you down by rumors. Just go with what you believe in. — Michael Jordan | Iran to allow 'non-hostile' ships to transit Strait of Hormuz |
