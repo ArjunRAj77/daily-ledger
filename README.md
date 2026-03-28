@@ -109,3 +109,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-25 | Don't let them drag you down by rumors. Just go with what you believe in. — Michael Jordan | Iran to allow 'non-hostile' ships to transit Strait of Hormuz |
 | 2026-03-26 | Life does not get better by chance, it gets better by change. — Jim Rohn | US air force strikes 10,000th Iranian target since start of war, CENTCOM says |
 | 2026-03-27 | People think about what they don't want and attract more of the same. — Unknown | Phillies' Alec Bohm sues his parents, accuses them of misusing his money |
+| 2026-03-28 | Silence is a source of great strength. — Lao Tzu | Sportsnet.ca |
