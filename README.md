@@ -112,3 +112,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-28 | Silence is a source of great strength. — Lao Tzu | Sportsnet.ca |
 | 2026-03-29 | One beam, no matter how big, cannot support an entire house on its own. — Chinese Proverb | N. Korea's KCNA, Russia's TASS sign agreement on media cooperation amid expanding ties |
 | 2026-03-30 | If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson | Sinner secures 'Sunshine Double,' beating Lehecka in Miami Open final |
+| 2026-03-31 | The only time you run out of chances is when you stop taking them. — Unknown | England's Jude Bellingham to sit out friendly against Japan - Thomas Tuchel |
