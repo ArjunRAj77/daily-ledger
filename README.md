@@ -114,3 +114,4 @@ This repo adds a single meaningful line per day:
 | 2026-03-30 | If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson | Sinner secures 'Sunshine Double,' beating Lehecka in Miami Open final |
 | 2026-03-31 | The only time you run out of chances is when you stop taking them. — Unknown | England's Jude Bellingham to sit out friendly against Japan - Thomas Tuchel |
 | 2026-04-01 | No kind action ever stops with itself. One kind action leads to another. Good example is followed. — Amelia Earhart | Syrian President al-Sharaa: Israel backed out of relations last minute |
+| 2026-04-02 | All problems are interpersonal relationship problems. — Alfred Adler | How prepared are Argentina to defend their World Cup crown? |
