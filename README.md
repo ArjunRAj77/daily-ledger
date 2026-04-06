@@ -118,3 +118,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-03 | A man who cannot tolerate small misfortunes can never accomplish great things. — Chinese Proverb | Senators’ Tkachuk and Sabres’ Stanley drop the mitts in Ottawa |
 | 2026-04-04 | Death smiles at us all. All we can do is smile back. — Marcus Aurelius | Iran-Israel war LIVE: Iran hunts crew member of crashed U.S. jet after one reported rescued |
 | 2026-04-05 | Better late than never. — Spencer Johnson | Takeaways: Edin shines as Canada’s drought at men’s world championship continues |
+| 2026-04-06 | You are what you do, not what you say you'll do. — Carl Jung | Athletics’ Rooker smashes three-run homer to walk off Astros |
