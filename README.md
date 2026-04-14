@@ -126,3 +126,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-11 | You cannot swim for new horizons until you have courage to lose sight of the shore. — William Faulkner | Spurs' Wembanyama active against Mavericks |
 | 2026-04-12 | The only thing we have to fear is fear itself. — Franklin D. Roosevelt | McIlroy's backslide sets up another dramatic final round at Masters |
 | 2026-04-13 | an action committed in anger is an action doomed to failure.  — Genghis Khan | Sources: Doc Rivers out after three years as Bucks coach |
+| 2026-04-14 | The reward of suffering is experience. — Harry S. Truman | Commissioner: WNBA eyeing first international game in 2027 |
