@@ -128,3 +128,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-13 | an action committed in anger is an action doomed to failure.  — Genghis Khan | Sources: Doc Rivers out after three years as Bucks coach |
 | 2026-04-14 | The reward of suffering is experience. — Harry S. Truman | Commissioner: WNBA eyeing first international game in 2027 |
 | 2026-04-15 | If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated. — Celestine Chua | Warner Bros.’ Mike De Luca & Pam Abdy Mum On Paramount As They Take CinemaCon Stage, Eye 18-Film Slate In 2027 |
+| 2026-04-16 | It's easy to be a critic, but being a doer requires effort, risk, and change.   — Wayne Dyer | Trout two-run blast marks fourth homer of the series against Yankees |
