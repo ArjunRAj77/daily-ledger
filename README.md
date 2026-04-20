@@ -132,3 +132,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-17 | Trust, like the soul, never returns once it is gone. — Publilius Syrus | Sportsnet.ca |
 | 2026-04-18 | The clock indicates the moment...but what does eternity indicate? — Walt Whitman | Rams drop 'Thursday' 2026 NFL draft teaser featuring sons of 'Friday' stars |
 | 2026-04-19 | You have to give up some of the old so that you can make room for the new. — Yanni | Boldy, Eriksson Ek score two apiece as Wild overwhelm Stars in Game 1 |
+| 2026-04-20 | Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. — Elon Musk | Canada's Wilkinson leads Guardians double-A affiliate in combined no-hitter |
