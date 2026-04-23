@@ -135,3 +135,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-20 | Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. — Elon Musk | Canada's Wilkinson leads Guardians double-A affiliate in combined no-hitter |
 | 2026-04-21 | If you are patient in one moment of anger, you will escape a hundred days of sorrow.  — Chinese Proverb | New plastic film covered in thousands of tiny pillars can tear apart viruses on contact |
 | 2026-04-22 | Longevity is a fleeting moment that lasts forever. — Vidal Sassoon | Leicester's fall from grace: From Prem champions to League One |
+| 2026-04-23 | Once a decision was made, I didn't worry about it afterward. — Harry S. Truman | Naftali Bennett accidentally reveals identity of Shin Bet bodyguard |
