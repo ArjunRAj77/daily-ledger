@@ -138,3 +138,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-23 | Once a decision was made, I didn't worry about it afterward. — Harry S. Truman | Naftali Bennett accidentally reveals identity of Shin Bet bodyguard |
 | 2026-04-24 | The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. — Naval Ravikant | Giants select Ohio State’s Arvell Reese fifth overall in NFL Draft |
 | 2026-04-25 | The quality of your life is determined by the quality of questions you ask. — Tony Robbins | Reigning Two-Time Champ Carlos Alcaraz Out of French Open Due to Wrist Injury |
+| 2026-04-26 | Happiness is not the absence of problems, it's the ability to deal with them. — Steve Maraboli | Viral memes are being weaponized to turn Americans against Israel |
