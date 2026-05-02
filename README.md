@@ -144,3 +144,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-29 | When you make a choice, you change the future. — Deepak Chopra | Blue Jays' Yesavage takes scoreless outing into sixth in season debut |
 | 2026-04-30 | It will never rain roses: when we want to have more roses, we must plant more roses. — George Eliot | Report: Canucks interview Panthers' Brett Peterson for GM role |
 | 2026-05-01 | Chase your passion, not your pension.  — Denis Waitley | Daniels, Robinson ejected after fight, Knicks' halftime lead sets NBA playoff record |
+| 2026-05-02 | The biggest adventure is what lies ahead. — J.R.R. Tolkien | Brewers' Misiorowski exits vs. Nationals with apparent injury |
