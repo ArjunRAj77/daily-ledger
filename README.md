@@ -145,3 +145,4 @@ This repo adds a single meaningful line per day:
 | 2026-04-30 | It will never rain roses: when we want to have more roses, we must plant more roses. — George Eliot | Report: Canucks interview Panthers' Brett Peterson for GM role |
 | 2026-05-01 | Chase your passion, not your pension.  — Denis Waitley | Daniels, Robinson ejected after fight, Knicks' halftime lead sets NBA playoff record |
 | 2026-05-02 | The biggest adventure is what lies ahead. — J.R.R. Tolkien | Brewers' Misiorowski exits vs. Nationals with apparent injury |
+| 2026-05-03 | You must be willing to do what others won't do, to have what others won't have. — Les Brown | Bnei Menashe's return to Israel fulfills an ancient promise |
