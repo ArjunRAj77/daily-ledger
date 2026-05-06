@@ -148,3 +148,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-03 | You must be willing to do what others won't do, to have what others won't have. — Les Brown | Bnei Menashe's return to Israel fulfills an ancient promise |
 | 2026-05-04 | Fear is your worst enemy. Risk is your best friend. — Gurbaksh Chahal | Woman receives Jewish divorce after three year struggle |
 | 2026-05-05 | A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. — Henry Ward Beecher | World unusually quiet today. |
+| 2026-05-06 | Those who are possessed by nothing possess everything. — Morihei Ueshiba | Rutherford: Canucks’ GM search is ‘a long ways along’, down to five candidates |
