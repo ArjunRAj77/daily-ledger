@@ -150,3 +150,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-05 | A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. — Henry Ward Beecher | World unusually quiet today. |
 | 2026-05-06 | Those who are possessed by nothing possess everything. — Morihei Ueshiba | Rutherford: Canucks’ GM search is ‘a long ways along’, down to five candidates |
 | 2026-05-07 | A bird does not sing because it has an answer. It sings because it has a song. — Chinese Proverb | Geopolitical stalemates require patient statesmanship |
+| 2026-05-08 | Pleasure can be supported by an illusion; but happiness rests upon truth.  — Nicolas Chamfort | Hurricanes’ Staal buries rebound for power-play goal |
