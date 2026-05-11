@@ -153,3 +153,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-08 | Pleasure can be supported by an illusion; but happiness rests upon truth.  — Nicolas Chamfort | Hurricanes’ Staal buries rebound for power-play goal |
 | 2026-05-09 | Don't seek, don't avoid, don't expect. Take what comes and be happy. — Maxime Lagace | Ilia Topuria confronts Josh Hokit at UFC Freedom 250 press conference |
 | 2026-05-10 | Fools resist. The wise embrace. — Maxime Lagace | Sportsnet.ca |
+| 2026-05-11 | A man with outward courage dares to die: a man with inner courage dares to live. — Lao Tzu | Sabres’ Malenstyn crashes the net and bowls over Dobes |
