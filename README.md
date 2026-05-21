@@ -163,3 +163,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-18 | It all depends on what you choose to believe. — Spencer Johnson | 'Most hard-working guy on tour': Aaron Rai captures first major |
 | 2026-05-19 | People don't care how much you know until they know how much you care. — Theodore Roosevelt | Blue Jays’ Macko records first career MLB out vs. Yankees |
 | 2026-05-20 | Learning never exhausts the mind.  — Leonardo da Vinci | AFTRS and Netflix announce First Nations scholarship program |
+| 2026-05-21 | The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. — Naval Ravikant | World unusually quiet today. |
