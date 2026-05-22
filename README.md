@@ -164,3 +164,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-19 | People don't care how much you know until they know how much you care. — Theodore Roosevelt | Blue Jays’ Macko records first career MLB out vs. Yankees |
 | 2026-05-20 | Learning never exhausts the mind.  — Leonardo da Vinci | AFTRS and Netflix announce First Nations scholarship program |
 | 2026-05-21 | The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. — Naval Ravikant | World unusually quiet today. |
+| 2026-05-22 | Admire as much as you can. Most people do not admire enough. — Vincent van Gogh | US House of Representatives cancel vote on Trump's Iran war powers |
