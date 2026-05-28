@@ -170,3 +170,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-25 | I'd rather welcome change than cling to the past. — Robert Kiyosaki | Predicting who will make Canada’s roster for the World Cup |
 | 2026-05-26 | By the practice of meditation, you will find that you are carrying within your heart a portable paradise. — Paramahansa Yogananda | Cricket and soccer are Australian sporting giants. How can they be struggling financially? |
 | 2026-05-27 | Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. — Og Mandino | RBNZ leaves Official Cash Rate unchanged at 2.25% |
+| 2026-05-28 | Who wishes to fight must first count the cost. — Sun Tzu | 133-year-old Japanese company’s cookies go beyond matcha with dashi and shichimi flavors |
