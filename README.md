@@ -173,3 +173,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-28 | Who wishes to fight must first count the cost. — Sun Tzu | 133-year-old Japanese company’s cookies go beyond matcha with dashi and shichimi flavors |
 | 2026-05-29 | Your business is not to 'get somewhere' - it is to be here. — Dan Millman | Canterbury man behind illegal lottery not going to jail, but yet to be sentenced |
 | 2026-05-30 | Choose a job you love, and you will never have to work a day in your life. — Confucius | Hurricanes’ Hall opens scoring, survives goalie interference challenge |
+| 2026-05-31 | Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. — Richard Bach | Police open investigation into animal abuse and abuse of woman, child |
