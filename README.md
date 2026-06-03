@@ -176,3 +176,4 @@ This repo adds a single meaningful line per day:
 | 2026-05-31 | Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. — Richard Bach | Police open investigation into animal abuse and abuse of woman, child |
 | 2026-06-01 | Small, consistent steps beat dramatic starts. | Billy Bones Club ad breaches Ad Standards rules by promoting smoking |
 | 2026-06-02 | The highest level of wisdom is when you not only accept but love adversity. — Maxime Lagace | Sportsnet.ca |
+| 2026-06-03 | The secret to success is to know something nobody else knows. — David Brinkley | Iran fires missiles and US strikes Iran facility after reports of faltering peace talks |
