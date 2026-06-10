@@ -183,3 +183,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-07 | FEAR has two meanings: 'Forget Everything And Run' or 'Face Everything And Rise.' The choice is yours. — Zig Ziglar | IDF strikes Hamas terrorist commander in Gaza |
 | 2026-06-08 | Winners never quit and quitters never win. — Vince Lombardi | Tiny homes see tiny boost for Los Angeles homeless as World Cup nears |
 | 2026-06-09 | They who have conquered doubt and fear have conquered failure. — James Allen | Tehran willing to negotiate with Washington if behavior changes |
+| 2026-06-10 | Some people dream of success, while others wake up and work hard at it. — Napoleon Hill | Top prospect Alberts Smits accepts E.J. McGuire Award of Excellence |
