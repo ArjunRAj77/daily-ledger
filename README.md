@@ -184,3 +184,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-08 | Winners never quit and quitters never win. — Vince Lombardi | Tiny homes see tiny boost for Los Angeles homeless as World Cup nears |
 | 2026-06-09 | They who have conquered doubt and fear have conquered failure. — James Allen | Tehran willing to negotiate with Washington if behavior changes |
 | 2026-06-10 | Some people dream of success, while others wake up and work hard at it. — Napoleon Hill | Top prospect Alberts Smits accepts E.J. McGuire Award of Excellence |
+| 2026-06-11 | A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. — Criss Jami | Justin Hartley Joins New ABC TV Show After Surprise Changes on His Hit Series ‘Tracker’ |
