@@ -185,3 +185,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-09 | They who have conquered doubt and fear have conquered failure. — James Allen | Tehran willing to negotiate with Washington if behavior changes |
 | 2026-06-10 | Some people dream of success, while others wake up and work hard at it. — Napoleon Hill | Top prospect Alberts Smits accepts E.J. McGuire Award of Excellence |
 | 2026-06-11 | A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. — Criss Jami | Justin Hartley Joins New ABC TV Show After Surprise Changes on His Hit Series ‘Tracker’ |
+| 2026-06-12 | Well done is better than well said. — Benjamin Franklin | Davies close to return as Canada progresses towards full strength |
