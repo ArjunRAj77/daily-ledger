@@ -187,3 +187,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-11 | A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. — Criss Jami | Justin Hartley Joins New ABC TV Show After Surprise Changes on His Hit Series ‘Tracker’ |
 | 2026-06-12 | Well done is better than well said. — Benjamin Franklin | Davies close to return as Canada progresses towards full strength |
 | 2026-06-13 | Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. — Dr. Seuss | 1 killed, 22 injured in Virginia church tent collapse |
+| 2026-06-14 | It is not as important how we start, but how we finish. — Joyce Meyer | US accused of alleged war crimes in recent strikes by Iranian media |
