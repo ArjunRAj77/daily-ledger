@@ -190,3 +190,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-14 | It is not as important how we start, but how we finish. — Joyce Meyer | US accused of alleged war crimes in recent strikes by Iranian media |
 | 2026-06-15 | Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler | Diego Lopes knocks out Steve Garcia in UFC Freedom 250 opener |
 | 2026-06-16 | Show me a hero, and I'll write you a tragedy. — F. Scott Fitzgerald | Ali Ahmed symbolic of Canada's search for next breakthrough |
+| 2026-06-17 | Don't Let Yesterday Take Up Too Much Of Today. — Will Rogers | Easton Cowan scores, Marlies take 3-0 lead on Wolves in Calder Cup Finals |
