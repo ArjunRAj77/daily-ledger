@@ -191,3 +191,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-15 | Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! — Alfred Adler | Diego Lopes knocks out Steve Garcia in UFC Freedom 250 opener |
 | 2026-06-16 | Show me a hero, and I'll write you a tragedy. — F. Scott Fitzgerald | Ali Ahmed symbolic of Canada's search for next breakthrough |
 | 2026-06-17 | Don't Let Yesterday Take Up Too Much Of Today. — Will Rogers | Easton Cowan scores, Marlies take 3-0 lead on Wolves in Calder Cup Finals |
+| 2026-06-18 | The older you get, the more you understand how your conscience works. — Criss Jami | Report: MLB changing Home Run Derby format |
