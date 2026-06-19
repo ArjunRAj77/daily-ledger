@@ -192,3 +192,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-16 | Show me a hero, and I'll write you a tragedy. — F. Scott Fitzgerald | Ali Ahmed symbolic of Canada's search for next breakthrough |
 | 2026-06-17 | Don't Let Yesterday Take Up Too Much Of Today. — Will Rogers | Easton Cowan scores, Marlies take 3-0 lead on Wolves in Calder Cup Finals |
 | 2026-06-18 | The older you get, the more you understand how your conscience works. — Criss Jami | Report: MLB changing Home Run Derby format |
+| 2026-06-19 | Never whine, never complain, never try to justify yourself. — Robert Greene | Wolves’ Neuchev scores overtime goal to win Game 4 of Calder Cup Finals |
