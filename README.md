@@ -201,3 +201,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-25 | At every moment where language can't go, that's your mind. — Bodhidharma | Donald Trump to meet defense contractors amid push to replenish weapon stockpiles |
 | 2026-06-26 | The highest form of ignorance is when you reject something you don't know anything about. — Wayne Dyer | News, Scores and Live Streaming |
 | 2026-06-27 | Do not regret the past. Look to the future. — Soyen Shaku | In Catholic priests, Jews are gaining powerful allies in the war on antisemitism |
+| 2026-06-28 | No man is happy unless he believes he is. — Publilius Syrus | HRF calls for arrest of Itamar Ben-Gvir during visit to New York UN headquarters |
