@@ -203,3 +203,4 @@ This repo adds a single meaningful line per day:
 | 2026-06-27 | Do not regret the past. Look to the future. — Soyen Shaku | In Catholic priests, Jews are gaining powerful allies in the war on antisemitism |
 | 2026-06-28 | No man is happy unless he believes he is. — Publilius Syrus | HRF calls for arrest of Itamar Ben-Gvir during visit to New York UN headquarters |
 | 2026-06-29 | Fashion fades, only style remains the same. — Coco Chanel | France Records 1,000 Deaths as Extreme Heat Breaks European Records |
+| 2026-06-30 | Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. — Lao Tzu | At Primavera 2026, artists do not exhibit the archive – they remake it |
