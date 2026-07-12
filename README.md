@@ -215,3 +215,4 @@ This repo adds a single meaningful line per day:
 | 2026-07-09 | Knowledge has to be improved, challenged, and increased constantly, or it vanishes. — Peter Drucker | Pirates lose perfect game after pulling starter Jared Jones in seventh vs. Braves |
 | 2026-07-10 | Small, consistent steps beat dramatic starts. | World unusually quiet today. |
 | 2026-07-11 | Your heart is the size of an ocean. Go find yourself in its hidden depths. — Rumi | US gives Iran deadline to declare Strait of Hormuz fully open – Axios — RT World News |
+| 2026-07-12 | High thoughts must have high language. — Aristophanes | Bezalel Smotrich deserves 'at least 15 seats' for West Bank annexation, Haim Ramon says |
