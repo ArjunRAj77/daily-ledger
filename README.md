@@ -223,3 +223,4 @@ This repo adds a single meaningful line per day:
 | 2026-07-17 | To be alive - is Power. — Emily Dickinson | Donald Trump administration to focus counterterrorism on 'far-left terror', Marco Rubio says |
 | 2026-07-18 | Do not look upon this world with fear and loathing. Bravely face whatever the gods offer. — Morihei Ueshiba | Top U.S. prosecutor will not dispute DOJ decision to drop Gautam Adani's criminal case |
 | 2026-07-19 | To accomplish big things, I am convinced you must first dream big dreams. — Conrad Hilton | US launches fresh strikes on Iran in revenge for US soldiers being killed |
+| 2026-07-20 | There exists only the present instant; a Now which always and without end is itself new. — Meister Eckhart | Mos Burger opens Mosh Burger ＆ Bar in Ginza, but is it fated to be a short-lived sensation? |
