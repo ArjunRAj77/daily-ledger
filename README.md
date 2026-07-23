@@ -226,3 +226,4 @@ This repo adds a single meaningful line per day:
 | 2026-07-20 | There exists only the present instant; a Now which always and without end is itself new. — Meister Eckhart | Mos Burger opens Mosh Burger ＆ Bar in Ginza, but is it fated to be a short-lived sensation? |
 | 2026-07-21 | The more you know, the more you know you don't know. — Aristotle | Noah Kahan Breaks Silence After Cancelling New York City Show at Last Minute: ‘You Deserve Better’ |
 | 2026-07-22 | The least deviation from truth will be multiplied later. — Aristotle | New Jersey software error registered 6,600 non-citizens to vote, governor says |
+| 2026-07-23 | Care about what other people think and you will always be their prisoner. — Lao Tzu | Blue Jays’ Lukes showcases defensive highlight reel with arm and glove |
