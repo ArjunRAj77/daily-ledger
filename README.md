@@ -228,3 +228,4 @@ This repo adds a single meaningful line per day:
 | 2026-07-22 | The least deviation from truth will be multiplied later. — Aristotle | New Jersey software error registered 6,600 non-citizens to vote, governor says |
 | 2026-07-23 | Care about what other people think and you will always be their prisoner. — Lao Tzu | Blue Jays’ Lukes showcases defensive highlight reel with arm and glove |
 | 2026-07-24 | Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more. — Steve Harvey | Coughlin, Shin, take first-round lead with 66s at LPGA's Scottish Open |
+| 2026-07-25 | He who is not contented with what he has, would not be contented with what he would like to have. — Socrates | Phillie Phanatic celebrates 76ers signing LeBron James with chalk toss |
