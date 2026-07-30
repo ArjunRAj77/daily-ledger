@@ -233,3 +233,4 @@ This repo adds a single meaningful line per day:
 | 2026-07-27 | Small, consistent steps beat dramatic starts. | Lee orders retention of oil price caps until price uncertainty completely recedes |
 | 2026-07-28 | Repetition does not transform a lie into a truth. — Franklin D. Roosevelt | Senate candidate Haley Stevens meets Abdul El-Sayed |
 | 2026-07-29 | Disobedience is the true foundation of liberty. The obedient must be slaves. — Henry David Thoreau | Four Israelis arrested in Greek catamaran drug raid |
+| 2026-07-30 | Cleverness is not wisdom. — Euripides | Dodgers activate Diaz from IL, expect Ohtani to pitch again this season |
