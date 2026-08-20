@@ -254,3 +254,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-17 | Circumstances rule men; men do not rule circumstances. — Herodotus | Key S. Korea-US military drills begin amid OPCON transition push |
 | 2026-08-18 | We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time. — T.S. Eliot | Lee to host dinner with new DPK chair, former leadership contenders |
 | 2026-08-19 | Believe you can and you're halfway there. — Colin R. Davis | Bieber breaks down how Blue Jays determined fantasy football draft order |
+| 2026-08-20 | Before preparing to improve the world, first look around your own home three times. — Chinese Proverb | Blue Jays’ Kirk blasts a solo shot vs. Rays |
