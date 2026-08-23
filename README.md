@@ -257,3 +257,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-20 | Before preparing to improve the world, first look around your own home three times. — Chinese Proverb | Blue Jays’ Kirk blasts a solo shot vs. Rays |
 | 2026-08-21 | Do not think you will necessarily be aware of your own enlightenment. — Dogen | ‘The McKinsey of Youtube’: Inside Byron-based Steve Crombie’s global digital empire |
 | 2026-08-22 | Time is a game played beautifully by children. — Heraclitus | NFL storylines as preseason hits Week 2 |
+| 2026-08-23 | Your goals are the road maps that guide you and show you what is possible for your life. — Les Brown | Mariners’ Anderson picks up first MLB strikeout vs. Cubs |
