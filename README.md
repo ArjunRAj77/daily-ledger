@@ -259,3 +259,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-22 | Time is a game played beautifully by children. — Heraclitus | NFL storylines as preseason hits Week 2 |
 | 2026-08-23 | Your goals are the road maps that guide you and show you what is possible for your life. — Les Brown | Mariners’ Anderson picks up first MLB strikeout vs. Cubs |
 | 2026-08-24 | Decide what your truth is. Then live it. — Kamal Ravikant | Little Leaguers throw unique ceremonial pitch ahead of Braves vs. Brewers |
+| 2026-08-25 | Whatever you do in life, surround yourself with smart people who'll argue with you. — John Wooden | No criminal findings in death of Bills' DT Ed Oliver's son |
