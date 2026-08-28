@@ -262,3 +262,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-25 | Whatever you do in life, surround yourself with smart people who'll argue with you. — John Wooden | No criminal findings in death of Bills' DT Ed Oliver's son |
 | 2026-08-26 | Sometimes success isn't about making the right decision, it's more about making some decision. — Robin Sharma | New installations emerge on islet as China accelerates South China Sea build-up |
 | 2026-08-27 | You're on earth. There's no cure for that. — Samuel Beckett | Short-handed Tempo fall to Storm, Flau’jae Johnson |
+| 2026-08-28 | Only I can change my life. No one can do it for me. — Carol Burnett | Yamagata Weather Guide: Seasonal Climate, Best Times to Visit, and Outfit Tips |
