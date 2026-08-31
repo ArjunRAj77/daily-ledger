@@ -265,3 +265,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-28 | Only I can change my life. No one can do it for me. — Carol Burnett | Yamagata Weather Guide: Seasonal Climate, Best Times to Visit, and Outfit Tips |
 | 2026-08-29 | Everything has beauty but not everyone sees it. — Confucius | Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region |
 | 2026-08-30 | There is an essence of when you are fearless, you become more creative. — Gurbaksh Chahal | Hong Kong’s independent bookstores, a refuge for Chinese readers, are under threat |
+| 2026-08-31 | Those who realize their folly are not true fools. — Zhuangzi | Watch live: PM Christopher Luxon at post cab conference |
