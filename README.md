@@ -266,3 +266,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-29 | Everything has beauty but not everyone sees it. — Confucius | Seven ancient Parthian tombs unearthed in Iraq’s Kurdistan region |
 | 2026-08-30 | There is an essence of when you are fearless, you become more creative. — Gurbaksh Chahal | Hong Kong’s independent bookstores, a refuge for Chinese readers, are under threat |
 | 2026-08-31 | Those who realize their folly are not true fools. — Zhuangzi | Watch live: PM Christopher Luxon at post cab conference |
+| 2026-09-01 | If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson | MLB Highlights: Mets 3, Rays 2 |
