@@ -268,3 +268,4 @@ This repo adds a single meaningful line per day:
 | 2026-08-31 | Those who realize their folly are not true fools. — Zhuangzi | Watch live: PM Christopher Luxon at post cab conference |
 | 2026-09-01 | If you want something you've never had you must be willing to do something you've never done. — Thomas Jefferson | MLB Highlights: Mets 3, Rays 2 |
 | 2026-09-02 | A heart is not judged by how much you love, but by how much you are loved by others. — Judy Garland | Why The Valley's Nia, Danny Are Not Returning for Season 4 |
+| 2026-09-03 | We should not look back unless it is to derive useful lessons from past errors. — George Washington | Bessent: US destroying Iran's economy, 'asphyxiating' IRGC |
