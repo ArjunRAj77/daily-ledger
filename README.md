@@ -270,3 +270,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-02 | A heart is not judged by how much you love, but by how much you are loved by others. — Judy Garland | Why The Valley's Nia, Danny Are Not Returning for Season 4 |
 | 2026-09-03 | We should not look back unless it is to derive useful lessons from past errors. — George Washington | Bessent: US destroying Iran's economy, 'asphyxiating' IRGC |
 | 2026-09-04 | Relax. Nothing is under control. — Adi Da Samraj | Saskatchewan mine starts production as Ottawa pushes critical minerals strategy |
+| 2026-09-05 | The way we feel is the direct result of what we think. — Peter A. Cohen | Blue Jays pull Jameson Taillon early in return from injured list |
