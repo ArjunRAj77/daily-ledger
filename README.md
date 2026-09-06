@@ -271,3 +271,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-03 | We should not look back unless it is to derive useful lessons from past errors. — George Washington | Bessent: US destroying Iran's economy, 'asphyxiating' IRGC |
 | 2026-09-04 | Relax. Nothing is under control. — Adi Da Samraj | Saskatchewan mine starts production as Ottawa pushes critical minerals strategy |
 | 2026-09-05 | The way we feel is the direct result of what we think. — Peter A. Cohen | Blue Jays pull Jameson Taillon early in return from injured list |
+| 2026-09-06 | It's not what you pay a man, but what he costs you that counts. — Will Rogers | Sportsnet.ca |
