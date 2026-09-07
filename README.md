@@ -272,3 +272,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-04 | Relax. Nothing is under control. — Adi Da Samraj | Saskatchewan mine starts production as Ottawa pushes critical minerals strategy |
 | 2026-09-05 | The way we feel is the direct result of what we think. — Peter A. Cohen | Blue Jays pull Jameson Taillon early in return from injured list |
 | 2026-09-06 | It's not what you pay a man, but what he costs you that counts. — Will Rogers | Sportsnet.ca |
+| 2026-09-07 | The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong. — Jeff Booth | YG Entertainment Removes BABYMONSTER’s Rami From Project, Sparking Heated Reactions |
