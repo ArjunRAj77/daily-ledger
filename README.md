@@ -275,3 +275,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-07 | The best leaders are constantly learning, curious about where they made mistakes and actively looking for areas where they might have it wrong. — Jeff Booth | YG Entertainment Removes BABYMONSTER’s Rami From Project, Sparking Heated Reactions |
 | 2026-09-08 | Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. — Roy T. Bennett | Eiffel Tower closed in row over women removed for Hindu group |
 | 2026-09-09 | Try to be a rainbow in someone's cloud. — Maya Angelou | Opal readers on Sydney Ferries to be switched off for four weeks, union says amid industrial action |
+| 2026-09-10 | Always be a first-rate version of yourself, instead of a second-rate version of someone else. — Judy Garland | Orioles’ Mayo takes advantage of fumbled foul with homer on next pitch |
