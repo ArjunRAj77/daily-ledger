@@ -276,3 +276,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-08 | Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. — Roy T. Bennett | Eiffel Tower closed in row over women removed for Hindu group |
 | 2026-09-09 | Try to be a rainbow in someone's cloud. — Maya Angelou | Opal readers on Sydney Ferries to be switched off for four weeks, union says amid industrial action |
 | 2026-09-10 | Always be a first-rate version of yourself, instead of a second-rate version of someone else. — Judy Garland | Orioles’ Mayo takes advantage of fumbled foul with homer on next pitch |
+| 2026-09-11 | Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. — Celestine Chua | Protester heckles JD Vance, spices up his GOP midterm convention speech: ‘Just discovered the symbol of the far-left’ |
