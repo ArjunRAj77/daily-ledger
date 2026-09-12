@@ -277,3 +277,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-09 | Try to be a rainbow in someone's cloud. — Maya Angelou | Opal readers on Sydney Ferries to be switched off for four weeks, union says amid industrial action |
 | 2026-09-10 | Always be a first-rate version of yourself, instead of a second-rate version of someone else. — Judy Garland | Orioles’ Mayo takes advantage of fumbled foul with homer on next pitch |
 | 2026-09-11 | Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. — Celestine Chua | Protester heckles JD Vance, spices up his GOP midterm convention speech: ‘Just discovered the symbol of the far-left’ |
+| 2026-09-12 | If you aren't sure which way to do something, do it both ways and see which works better. — John Carmack | Alberta could spend billions on public gas pipelines to fuel data centre boom, leaked document suggests |
