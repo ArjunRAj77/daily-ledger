@@ -280,3 +280,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-12 | If you aren't sure which way to do something, do it both ways and see which works better. — John Carmack | Alberta could spend billions on public gas pipelines to fuel data centre boom, leaked document suggests |
 | 2026-09-13 | Never was anything great achieved without danger. — Niccolo Machiavelli | 'The Surgeon' Review: Michelle Yeoh Is hand with a scalpel -Toronto |
 | 2026-09-14 | Doing the best at this moment puts you in the best place for the next moment. — Oprah Winfrey | Arab crime in Israel: Three relatives found dead in burned vehicle |
+| 2026-09-15 | Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two. — Warren Buffett | Israel's US open rep. Guy Sasson comes close to historic title |
