@@ -281,3 +281,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-13 | Never was anything great achieved without danger. — Niccolo Machiavelli | 'The Surgeon' Review: Michelle Yeoh Is hand with a scalpel -Toronto |
 | 2026-09-14 | Doing the best at this moment puts you in the best place for the next moment. — Oprah Winfrey | Arab crime in Israel: Three relatives found dead in burned vehicle |
 | 2026-09-15 | Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two. — Warren Buffett | Israel's US open rep. Guy Sasson comes close to historic title |
+| 2026-09-16 | If anything is worth doing, do it with all your heart. — Buddha | MLB Highlights: Dodgers 4, Reds 0 |
