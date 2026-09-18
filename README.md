@@ -283,3 +283,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-15 | Look for 3 things in a person. Intelligence, Energy, & Integrity. If they don't have the last one, don't even bother with the first two. — Warren Buffett | Israel's US open rep. Guy Sasson comes close to historic title |
 | 2026-09-16 | If anything is worth doing, do it with all your heart. — Buddha | MLB Highlights: Dodgers 4, Reds 0 |
 | 2026-09-17 | If you chase two rabbits, you catch none. — Confucius | CF Montreal tops reigning champion Whitecaps, advances to Canadian Championship final |
+| 2026-09-18 | So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon | Bills open new Highmark Stadium with two anthems, fireworks |
