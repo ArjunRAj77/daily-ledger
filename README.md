@@ -285,3 +285,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-17 | If you chase two rabbits, you catch none. — Confucius | CF Montreal tops reigning champion Whitecaps, advances to Canadian Championship final |
 | 2026-09-18 | So long as we are being remembered, we remain alive. — Carlos Ruiz Zafon | Bills open new Highmark Stadium with two anthems, fireworks |
 | 2026-09-19 | Lack of emotion causes lack of progress and lack of motivation. — Tony Robbins | Benjamin Netanyahu may not meet with Donald Trump during US visit, official says |
+| 2026-09-20 | By seeking and blundering we learn. — Johann Wolfgang von Goethe | How an Adam Sandler film re-ignited my will to live as a cancer survivor |
