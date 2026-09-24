@@ -289,3 +289,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-21 | Some of us learn from other people's mistakes and the rest of us have to be other people. — Zig Ziglar | ICE agent shoots and wounds Venezuelan migrant in Austin, sparking protests |
 | 2026-09-22 | Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. — Albus Dumbledore | World unusually quiet today. |
 | 2026-09-23 | When we allow negative messages to fester in our head, they take on a life of their own. — Lolly Daskal | Al-Sharaa: October 7 cannot dictate Israel's Syria policy |
+| 2026-09-24 | There is a wisdom of the head, and there is a wisdom of the heart. — Charles Dickens | I’m a lifelong surfer, the waves don’t scare me, traveling as a Jew does |
