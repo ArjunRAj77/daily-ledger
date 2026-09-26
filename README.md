@@ -291,3 +291,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-23 | When we allow negative messages to fester in our head, they take on a life of their own. — Lolly Daskal | Al-Sharaa: October 7 cannot dictate Israel's Syria policy |
 | 2026-09-24 | There is a wisdom of the head, and there is a wisdom of the heart. — Charles Dickens | I’m a lifelong surfer, the waves don’t scare me, traveling as a Jew does |
 | 2026-09-25 | Older men declare war. But it is youth that must fight and die. — Herbert Hoover | Pezeshkian says he met with Khamenei face to face, supreme leader healthy |
+| 2026-09-26 | Life happens in the river, not the shore. — Maxime Lagace | ‘Guy that we had targeted’: Canucks’ Johnson on claiming Merilainen |
