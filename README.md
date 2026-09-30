@@ -295,3 +295,4 @@ This repo adds a single meaningful line per day:
 | 2026-09-27 | Either get busy living or get busy dying. — Stephen King | Scientist turned artist brings S.Y. Agnon’s stories to life through paintings |
 | 2026-09-28 | Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do. — Elvis Presley | Hurricanes reveal Stanley Cup championship ring |
 | 2026-09-29 | It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. — Albus Dumbledore | Mister Donut returns to China after seven years |
+| 2026-09-30 | The older you get, the better you get. Unless you're a banana. — Betty White | Maple Leafs’ Cowan, Nylander connect for slick tic-tac-toe goal |
