@@ -307,3 +307,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-09 | Anxiety is the dizziness of freedom. — Soren Kierkegaard | NHL Highlights: Predators 5, Canadiens 2 |
 | 2026-10-10 | The eyes of others our prisons; their thoughts our cages. — Virginia Woolf | Delhi Police expects 7,000 protesters; security personnel told to exercise restraint |
 | 2026-10-11 | The greater the impact you want to make, the greater your influence needs to be. — Lolly Daskal | World unusually quiet today. |
+| 2026-10-12 | The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. — James Allen | New poll finds majority support televised showdown between Benjamin Netanyahu, Gadi Eisenkot |
