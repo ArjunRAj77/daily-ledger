@@ -311,3 +311,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-13 | To lose your temper is only useful once a year. — Colin R. Davis | Toddler dies after he and firefighter dad are hit by car at Georgia shopping center |
 | 2026-10-14 | People inspire you, or they drain you. Pick them wisely. — Les Brown | Tkachuk brothers lead Panthers in drubbing of Blue Jackets |
 | 2026-10-15 | Optimism is the one quality more associated with success and happiness than any other. — Brian Tracy | The Hindu Morning Digest: October 15, 2026 |
+| 2026-10-16 | You just can't beat the person who never gives up. — Babe Ruth | Emotional Shohei Ohtani breaks homer drought in Game 4 |
