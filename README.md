@@ -312,3 +312,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-14 | People inspire you, or they drain you. Pick them wisely. — Les Brown | Tkachuk brothers lead Panthers in drubbing of Blue Jackets |
 | 2026-10-15 | Optimism is the one quality more associated with success and happiness than any other. — Brian Tracy | The Hindu Morning Digest: October 15, 2026 |
 | 2026-10-16 | You just can't beat the person who never gives up. — Babe Ruth | Emotional Shohei Ohtani breaks homer drought in Game 4 |
+| 2026-10-17 | Work for something because it is good, not just because it stands a chance to succeed. — Vaclav Havel | Former Shin Bet chief questions Netanyahu's motives ahead of election |
