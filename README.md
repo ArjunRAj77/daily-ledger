@@ -313,3 +313,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-15 | Optimism is the one quality more associated with success and happiness than any other. — Brian Tracy | The Hindu Morning Digest: October 15, 2026 |
 | 2026-10-16 | You just can't beat the person who never gives up. — Babe Ruth | Emotional Shohei Ohtani breaks homer drought in Game 4 |
 | 2026-10-17 | Work for something because it is good, not just because it stands a chance to succeed. — Vaclav Havel | Former Shin Bet chief questions Netanyahu's motives ahead of election |
+| 2026-10-18 | Don't be afraid to stand for what you believe in, even if that means standing alone. — Unknown | "Doctor X" Soars To Its Highest Ratings Yet As "100 Days Of Deception" Hits New Saturday High |
