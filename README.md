@@ -320,3 +320,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-22 | The only way round is through. — Robert Frost | JD Vance downplays choice not endorse Israel's Benjamin Netanyahu alongside Donald Trump |
 | 2026-10-23 | Freedom from desire leads to inner peace. — Lao Tzu | Pro Football Hall of Famer Marshall Faulk reveals he has Parkinson's disease |
 | 2026-10-24 | By the practice of meditation, you will find that you are carrying within your heart a portable paradise. — Paramahansa Yogananda | Hicks gets Rays on the board after Caminero’s frozen-rope double |
+| 2026-10-25 | It is ignorance that causes most mistakes. — Harry S. Truman | Survivors of clergy sexual abuse reach $800m. settlement with NY Archdiocese |
