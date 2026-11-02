@@ -328,3 +328,4 @@ This repo adds a single meaningful line per day:
 | 2026-10-30 | The greatest work that kindness does to others is that it makes them kind themselves. — Amelia Earhart | News, Scores and Live Streaming |
 | 2026-10-31 | Happiness is an effect of doing what you love, not an end goal to be achieved. — Celestine Chua | Nine Jewish activists that changed the world for the better throughout history |
 | 2026-11-01 | Everything has its beauty, but not everyone sees it. — Confucius | Anderson scores twice, Canadiens down Penguins for fifth straight win |
+| 2026-11-02 | It isn't that they can't see the solution. It is that they can't see the problem. — Gilbert Chesterton | At least 19 dead in Venezuela army attack on Colombian rebel camp |
