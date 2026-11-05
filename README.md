@@ -331,3 +331,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-02 | It isn't that they can't see the solution. It is that they can't see the problem. — Gilbert Chesterton | At least 19 dead in Venezuela army attack on Colombian rebel camp |
 | 2026-11-03 | Being an intellectual creates a lot of questions and no answers. — David Brinkley | Missing Invercargill woman found 'in good spirits' |
 | 2026-11-04 | Never fear quarrels, but seek hazardous adventures. — Alexandre Dumas | China disputes reports of artillery shell found in Papua New Guinea |
+| 2026-11-05 | Small, consistent steps beat dramatic starts. | Gunman goes on rampage at Citibank campus (VIDEOS) |
