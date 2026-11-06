@@ -332,3 +332,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-03 | Being an intellectual creates a lot of questions and no answers. — David Brinkley | Missing Invercargill woman found 'in good spirits' |
 | 2026-11-04 | Never fear quarrels, but seek hazardous adventures. — Alexandre Dumas | China disputes reports of artillery shell found in Papua New Guinea |
 | 2026-11-05 | Small, consistent steps beat dramatic starts. | Gunman goes on rampage at Citibank campus (VIDEOS) |
+| 2026-11-06 | Only when I fall do I get up again. — Vincent van Gogh | Declassified communist spy files spark Hungary ‘witch hunt’ hysteria — RT World News |
