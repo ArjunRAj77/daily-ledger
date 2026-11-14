@@ -340,3 +340,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-11 | Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. — Mark Manson | Kiingitanga mourns trusted pillar Tā Pou Temara |
 | 2026-11-12 | Rudeness is the weak man's imitation of strength. — Eric Hoffer | ‘Yes, Dear’ Actor Anthony Clark Dead at 62: Costar Mike O’Malley Leads Tributes |
 | 2026-11-13 | By perseverance the snail reached the ark. — Charles Spurgeon | Microsoft outage hits Outlook, Teams and Copilot across 74 countries |
+| 2026-11-14 | Don't change your mind just because people are offended; change your mind if you're wrong. — Criss Jami | Drone sightings trigger security response at US airbase in Britain amid spate of incidents |
