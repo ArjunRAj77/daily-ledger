@@ -342,3 +342,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-13 | By perseverance the snail reached the ark. — Charles Spurgeon | Microsoft outage hits Outlook, Teams and Copilot across 74 countries |
 | 2026-11-14 | Don't change your mind just because people are offended; change your mind if you're wrong. — Criss Jami | Drone sightings trigger security response at US airbase in Britain amid spate of incidents |
 | 2026-11-15 | Good judgment comes from experience, and experience comes from bad judgment. — Rita Mae Brown | Elbit Systems awarded $260 million contract for PULS launchers in Europe, NATO |
+| 2026-11-16 | Where you are right now doesn't have to determine where you'll end up. — Barack Obama | Netanyahu's 17-year-old grandson marries in Jerusalem, prime minister absent from wedding |
