@@ -345,3 +345,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-16 | Where you are right now doesn't have to determine where you'll end up. — Barack Obama | Netanyahu's 17-year-old grandson marries in Jerusalem, prime minister absent from wedding |
 | 2026-11-17 | Most people spend more time and energy going around problems than in trying to solve them. — Henry Ford | OPINION: The ‘rise’ of the north is good for rugby |
 | 2026-11-18 | It's your road, and yours alone, others may walk it with you, but no one can walk it for you. — Rumi | Israeli sexual assault survivors flounder as demand overwhelms crisis centers |
+| 2026-11-19 | You are not what you think you are, You are not what others think you are, You are what you think others think you are. — Unknown | Israelis use AI for everything from medicine to news, but rarely fact-check |
