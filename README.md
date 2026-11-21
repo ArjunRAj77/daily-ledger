@@ -347,3 +347,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-18 | It's your road, and yours alone, others may walk it with you, but no one can walk it for you. — Rumi | Israeli sexual assault survivors flounder as demand overwhelms crisis centers |
 | 2026-11-19 | You are not what you think you are, You are not what others think you are, You are what you think others think you are. — Unknown | Israelis use AI for everything from medicine to news, but rarely fact-check |
 | 2026-11-20 | Believe nothing you hear, and only one half that you see. — Edgar Allan Poe | Grand Theft Attention |
+| 2026-11-21 | I will not walk backward in life. — J.R.R. Tolkien | As Trump courts Xi and Putin, middle powers make their own moves |
