@@ -348,3 +348,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-19 | You are not what you think you are, You are not what others think you are, You are what you think others think you are. — Unknown | Israelis use AI for everything from medicine to news, but rarely fact-check |
 | 2026-11-20 | Believe nothing you hear, and only one half that you see. — Edgar Allan Poe | Grand Theft Attention |
 | 2026-11-21 | I will not walk backward in life. — J.R.R. Tolkien | As Trump courts Xi and Putin, middle powers make their own moves |
+| 2026-11-22 | Your past does not equal your future. — Tony Robbins | Bridges hits three at buzzer, lifts Knicks over Trail Blazers |
