@@ -350,3 +350,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-21 | I will not walk backward in life. — J.R.R. Tolkien | As Trump courts Xi and Putin, middle powers make their own moves |
 | 2026-11-22 | Your past does not equal your future. — Tony Robbins | Bridges hits three at buzzer, lifts Knicks over Trail Blazers |
 | 2026-11-23 | No one returns from a long journey the same person they were before. — Zen Proverb | 'She wanted to go on her terms' : Auckland mum, 93, fulfils wish of assisted dying in Zurich |
+| 2026-11-24 | Faith is taking the first step even when you don't see the whole staircase. — Martin Luther King, Jr. | Libre‑échange en Afrique : pourquoi les politiques doivent s'adapter aux petits commerçants transfrontaliers |
