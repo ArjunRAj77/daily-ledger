@@ -352,3 +352,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-23 | No one returns from a long journey the same person they were before. — Zen Proverb | 'She wanted to go on her terms' : Auckland mum, 93, fulfils wish of assisted dying in Zurich |
 | 2026-11-24 | Faith is taking the first step even when you don't see the whole staircase. — Martin Luther King, Jr. | Libre‑échange en Afrique : pourquoi les politiques doivent s'adapter aux petits commerçants transfrontaliers |
 | 2026-11-25 | The merit of all things lies in their difficulty. — Alexandre Dumas | Why Israel must heed Jared Kushner’s warning on Trump’s Gaza plan |
+| 2026-11-26 | Impressing people is utterly different from being truly impressive. — Ryan Holiday | World unusually quiet today. |
