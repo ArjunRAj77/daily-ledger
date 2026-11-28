@@ -354,3 +354,4 @@ This repo adds a single meaningful line per day:
 | 2026-11-25 | The merit of all things lies in their difficulty. — Alexandre Dumas | Why Israel must heed Jared Kushner’s warning on Trump’s Gaza plan |
 | 2026-11-26 | Impressing people is utterly different from being truly impressive. — Ryan Holiday | World unusually quiet today. |
 | 2026-11-27 | Nothing can dim the light which shines from within. — Maya Angelou | Gold & Silver Price Update for Today, 27-Nov-2026 |
+| 2026-11-28 | Success is not to be pursued, it is to be attracted by the person you become. — Jim Rohn | Telangana to unveil 11 new policies at Global Summit |
